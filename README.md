@@ -1,1 +1,1 @@
-# MCP-Hackathon---Red-Hat-Ticket-Concierge
+# MCP-Hackathon--Red-Hat-Ticket-Concierge
