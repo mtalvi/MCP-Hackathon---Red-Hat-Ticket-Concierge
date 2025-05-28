@@ -27,5 +27,15 @@
       "Urgency": "High",
       "Description": ""
     }
+  },
+  "expense_support": {
+    "keywords": ["expense", "concur", "reimbursement", "receipt", "travel", "report", "missing expense"],
+    "url": "https://redhat.service-now.com/help?id=sc_cat_item&sys_id=80c155e81b84bb40a2fddac4bd4bcb31",
+    "fields": {
+      "Request type": "Expense Support",
+      "Platform": "Concur",
+      "Urgency": "Medium",
+      "Description": ""
+    }
   }
 }
