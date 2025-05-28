@@ -1,0 +1,31 @@
+{
+  "badge_request": {
+    "keywords": ["badge", "id", "access card", "employee card", "lost badge"],
+    "url": "https://redhat.service-now.com/help?id=sc_cat_item&sys_id=ac8bb875a82282004c7185ae62325874",
+    "fields": {
+      "Request type": "Badge",
+      "Urgency": "Standard",
+      "Description": ""
+    }
+  },
+  "locker_request": {
+    "keywords": ["locker", "storage", "cabinet", "drawer"],
+    "url": "https://redhat.service-now.com/help?id=sc_cat_item&sys_id=a4d32a92978299907d14f0f3a253af04",
+    "fields": {
+      "Request type": "Locker",
+      "Urgency": "Standard",
+      "Location": "",
+      "Description": ""
+    }
+  },
+  "payroll_support": {
+    "keywords": ["payroll", "salary", "payment", "wage", "compensation", "missing paycheck"],
+    "url": "https://redhat.service-now.com/help?id=sc_cat_item&sys_id=52f7f93f97d309187d14f0f3a253aff5",
+    "fields": {
+      "Request type": "Payroll Support",
+      "Department": "Payroll",
+      "Urgency": "High",
+      "Description": ""
+    }
+  }
+}
