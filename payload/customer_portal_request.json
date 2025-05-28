@@ -1,0 +1,15 @@
+{
+  "sysparm_quantity": 1,
+  "variables": {
+    "summary": "Test",
+    "universal_watch_list": "",
+    "are_you_from_customer_services_team": "Yes", 
+    "universal_watch_list_storage": "",
+    "requested_for": "8076f15733219a506c59a3570e5c7b71",
+    "category": "bbb314941b6830902d12c880604bcb6b",
+    "request_details": "TEst!!!!"
+  },
+  "sysparm_item_guid": "7b750461937d62587df0bfbd1dba1010",
+  "get_portal_messages": "true",
+  "sysparm_no_validation": "true"
+}
