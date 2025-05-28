@@ -1,0 +1,29 @@
+{
+  "variables": {
+    "requester": "8076f15733219a506c59a3570e5c7b71",
+    "time_and_absence_note": "",
+    "u_pay_query": "other",
+    "u_other": "TEST",
+    "universal_watch_list_storage": "",
+    "how_can_we_assist": "",
+    "Req_Payroll_Region": "EMEA",
+    "commission_note": "",
+    "benefits_note": "",
+    "Paycheck_Request_Type": "pay",
+    "u_additional_text_bank_info_inquiry": "",
+    "universal_watch_list": "",
+    "u_which_associate_is_this_for": "",
+    "u_paycheck_request": "",
+    "u_tax_query": "",
+    "u_who_behalf_of": "Myself",
+    "u_statement_query": "",
+    "u_myself": "8076f15733219a506c59a3570e5c7b71",
+    "u_location": "80d19f5cc4b5b900ec1b9e0b761df6a8",
+    "Req_Country": "IL",
+    "Requester_Email": "ikatav@redhat.com",
+    "Please_provide_additional_details": "TEST"
+  },
+  "sysparm_item_guid": "ce2e48e193b5a2587df0bfbd1dba1033",
+  "get_portal_messages": "true",
+  "sysparm_no_validation": "true"
+}
